@@ -1,0 +1,28 @@
+1.
+   W zadaniu zaimplementowałem 2 klasy oraz utworzyłem klasę główną Wybór, aby użytkownik mógł
+   wybrać jaki typ sortowania chce on wybrać.
+
+   Podczas tworzenia i zrozumienia algorytmu bąbelkowego oraz kubełkowego bardzo pomocne okazały się filmy:
+     https://www.youtube.com/watch?v=4s44rXRdmhQ
+     https://www.youtube.com/watch?v=geVyIsFpxUs
+     https://www.youtube.com/watch?v=TS6IiMOfxFE&t=347s
+
+     Jestem świadomy tego, że główny cel tego zadania nie został spełniony, lecz podczas tworzenia programu, napotkałem błąd
+     , którego nie potrafiłem przeszkoczyć. Chodzi o komunikat:
+     Non-Static Method … Cannot Be Referenced From a Static Context
+     Szukałem odpowiedzi na Stackoverflow oraz innych stronach i filmach jednak nie potrafiłem rozwiązać problemu.
+
+     Jeśli chodzi o tablicę to program :
+     Random r = new Random();
+             int[] tab = new int[200];
+             for (int i = 0; i < tab.length; i++) {
+                 tab[i] = r.nextInt(300);
+             }
+
+             generuje tablicę z randomowymi cyframi w zakresie od 0-300
+             Uznałem 300 za dobry limit, ponieważ algorytm sortowania kubełkowego przy dużej rozpiętości cyfr
+             potrafi "zjeść" dużo ilość ramu.
+
+
+
+
