@@ -1,18 +1,1 @@
-Krótkie sprawozdanie z pracy nad programem :
 
-1.Realizując pierwszy z trzech podpunktów stworzyłem łącznie 8 klas:
-- główną, nazwaną jako wypożyczalnie multimedialną,
--5 osobnych, kolejno dla książek, płyt, filmów, audiobooków i ebooków,
-- jedną dla cech wspólnych i metod, aby móc skorzystać z dziedziczenia,
--jedną dla obsługi klienta.
-
-2. 2 i 3 podpunkt postanowiłem zrealizować w formie menu wyboru, gdyż całkiem dobrze pamiętałem jak je tworzyć z zajęć labolatoryjnych z języka c++ rok temu na 2 semestrze.
-
-Podczas pracy nad programem niezbędną wiedzę czerpałem z natępujących źródeł:
-https://www.youtube.com/watch?v=RdOcG2s8kII&feature=youtu.be
-https://www.youtube.com/watch?v=Rty-if1Zm18&list=PLYu5L_HYrs1Lt7P6meLOovmVXWXO28Xpw&index=7
-https://programuj.pl/blog/java-daty
-
-Mój program ma kilka błędów, które nie wiem jak rozwiązać:
-- wszystkie nazwy dwuczłonowe takie jak autor, data i wydawnictwo trzeba wprowadzić bez spacji.
-Nie wiem jak rozwiązać problem aby zmienna String przyjęła pełną nazwę, razem ze znakiem spacji.
