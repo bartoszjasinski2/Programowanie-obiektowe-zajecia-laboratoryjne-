@@ -1,14 +1,1 @@
-zad. 2
 
-Za pomocą skanera użytkownik wprowadza liczbę elementów, która znajduje się w tablicy, następnie dane elementy trzeba wprowadzić
-za pomocą klawiatury.
-
-Po zrobieniu tych czynności program spyta o to jaki element jest przez nas poszukiwany, więc dobrze mieć w pamięci jedną z wartości, którą wprowadzliliśmy.
-
-Cały program opiera się na pętlach for oraz if else
-
-
-zad. 1
-
-Za pomocą skanera użytkownik wprowadza ciąg słów, który zostanie przekonwertowany. Wszystko zostaje przekonwertowane za pomocą metody
-getNumericValue (). 
